@@ -2,15 +2,12 @@
 <h1 align="center">Hi 👋, I'm Mariame SANGARE</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-
-![giphy](https://github.com/mariame-tech/mariame-tech/assets/65402138/3564ca1e-f2e9-45bd-a809-d2d00487ff96)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariame-tech&label=Profile%20views&color=0e75b6&style=flat" alt="mariame-tech" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **mariamesangare@esp.sn**
+- 📫 How to reach me **mariamesangare@esp.sn**              ![giphy](https://github.com/mariame-tech/mariame-tech/assets/65402138/34999dcd-7783-497d-b8ab-1c6abd5b46fb)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
