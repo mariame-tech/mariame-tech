@@ -1,10 +1,9 @@
 
-![giphy](https://github.com/mariame-tech/mariame-tech/assets/65402138/d23484ba-17bc-4411-8e99-4cf2906a0625)
 
 <h1 align="center">Hi 👋, I'm Mariame SANGARE</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-![giphy (1)](https://github.com/mariame-tech/mariame-tech/assets/65402138/0c2abcdf-f011-4a36-afad-2a8404fc7454)
+![giphy (1)](https://github.com/mariame-tech/mariame-tech/assets/65402138/0c2abcdf-f011-4a36-afad-2a8404fc7454)&style=flat
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariame-tech&label=Profile%20views&color=0e75b6&style=flat" alt="mariame-tech" /> </p>
 
