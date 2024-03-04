@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mariame SANGARE</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-
-<img src="![giphy (1)](https://github.com/mariame-tech/mariame-tech/assets/65402138/ccd82c1b-48f8-4e54-acee-99a61e839e82)"/>
+![giphy (1)](https://github.com/mariame-tech/mariame-tech/assets/65402138/ccd82c1b-48f8-4e54-acee-99a61e839e82)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariame-tech&label=Profile%20views&color=0e75b6&style=flat" alt="mariame-tech" /> </p>
 
