@@ -1,7 +1,9 @@
 ![logo](https://websitejo.com/storage/2019/09/news-develop.gif)
 <h1 align="center">Hi 👋, I'm Mariame SANGARE</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/stickers/css-html-indonesiasiapkerja-ZeFG00TVXs54Pw4c8e"/>
+
+![giphy (3)](https://github.com/mariame-tech/mariame-tech/assets/65402138/2721a123-e06a-4cf2-baf6-48ff57ca9971)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariame-tech&label=Profile%20views&color=0e75b6&style=flat" alt="mariame-tech" /> </p>
 
