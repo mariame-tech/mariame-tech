@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **mariamesangare@esp.sn**              ![giphy](https://github.com/mariame-tech/mariame-tech/assets/65402138/34999dcd-7783-497d-b8ab-1c6abd5b46fb)
+- 📫 How to reach me **mariamesangare@esp.sn**             
   
 
 <h3 align="left">Connect with me:</h3>
