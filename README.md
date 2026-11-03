@@ -4,8 +4,8 @@
 
 ### Turning ideas into digital solutions ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariame-sangare-969a271a5/)
-[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamesangare@esp.sn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariame-sangare/)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariameseydou.pro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariame-tech)
 
 </div>
@@ -97,23 +97,43 @@ With a background in Software Engineering, I enjoy exploring different areas of 
 
 ---
 
-## 🚀 Selected Projects
+## ## 🚀 Selected Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/mariame-tech/La-maison-jungle">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mariame-tech&repo=La-maison-jungle&theme=tokyonight&hide_border=true" />
-</a>
+### 🌿 [La Maison Jungle](https://github.com/mariame-tech/La-maison-jungle)
 
-<a href="https://github.com/mariame-tech/CRUD_APP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mariame-tech&repo=CRUD_APP&theme=tokyonight&hide_border=true" />
-</a>
+Web application developed with ReactJS.
 
-<a href="https://github.com/mariame-tech/GestionDeProduits">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mariame-tech&repo=GestionDeProduits&theme=tokyonight&hide_border=true" />
-</a>
+`React` `JavaScript`
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [CRUD App](https://github.com/mariame-tech/CRUD_APP)
+
+Application implementing CRUD operations.
+
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 📱 [Gestion de Produits](https://github.com/mariame-tech/GestionDeProduits)
+
+Android application developed with Kotlin and SQLite.
+
+`Kotlin` `SQLite`
+
+</td>
+</tr>
+</table>
+
+*More projects coming soon!*
 
 ---
 
