@@ -2,24 +2,33 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090E2B,50:312E81,100:7C3AED&height=200&section=header&text=Mariame%20SANGARE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Web%20%26%20Data&descAlignY=62&descSize=18" width="100%" />
 
+</div>
+
 <table>
 <tr>
 <td width="30%" align="center" valign="middle">
-<img src="./assets/profile.png" width="160" alt="Mariame SANGARE"/>
-</td>
-<td width="70%" align="left" valign="middle">
 
-### Turning ideas into digital solutions ✨
+<img src="./assets/profile.png" width="180" alt="Mariame SANGARE"/>
+
+</td>
+
+<td width="70%" valign="middle">
+
+## 👋 Hi, I'm Mariame SANGARE
+
+### Software Developer | Web Development & Data
+
+Building digital solutions, exploring technologies and turning ideas into reality.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariame-sangare/)
+
 [![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariameseydou.pro@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariame-tech)
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
