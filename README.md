@@ -1,26 +1,16 @@
-<table>
-<tr>
-<td width="25%" align="center" valign="middle">
-  <img width="180" alt="PXL" src="https://images.weserv.nl/?url=github.com/user-attachments/assets/1a3ab5fd-3e93-4f59-a883-8acb5c0dd55e&w=360&h=360&fit=cover&a=attention&mask=circle" />
-</td>
+<img align="left" width="240" hspace="24" alt="Mariame SANGARE" src="https://images.weserv.nl/?url=github.com/user-attachments/assets/1a3ab5fd-3e93-4f59-a883-8acb5c0dd55e&w=480&h=480&fit=cover&a=top&mask=circle" />
 
-<td width="75%" valign="middle">
+### 👋 Hi, I'm Mariame SANGARE
 
-## 👋 Hi, I'm Mariame SANGARE
-
-### Software Developer | Web Development & Data
+#### Software Developer | Web Development & Data
 
 Building digital solutions, exploring technologies and turning ideas into reality.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariame-sangare/)
-
 [![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariameseydou.pro@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariame-tech)
 
-</td>
-</tr>
-</table>
+<br clear="left" />
 
 
 ---
