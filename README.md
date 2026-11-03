@@ -1,4 +1,4 @@
-<img align="left" width="240" hspace="24" alt="Mariame SANGARE" src="https://images.weserv.nl/?url=github.com/user-attachments/assets/1a3ab5fd-3e93-4f59-a883-8acb5c0dd55e&w=480&h=480&fit=cover&a=top&mask=circle" />
+<img align="left" width="240" hspace="24" alt="Mariame SANGARE" src="https://images.weserv.nl/?url=github.com/user-attachments/assets/1a3ab5fd-3e93-4f59-a883-8acb5c0dd55e&w=480&h=480&fit=cover&a=top&mask=circle" style="border: 4px solid #7C3AED;" />
 
 ### 👋 Hi, I'm Mariame SANGARE
 
