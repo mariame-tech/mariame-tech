@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090E2B,50:312E81,100:7C3AED&height=200&section=header&text=Mariame%20SANGARE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Web%20%26%20Data&descAlignY=62&descSize=18" width="100%" />
-
 </div>
 
 <table>
