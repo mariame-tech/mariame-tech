@@ -1,107 +1,157 @@
-<!-- PROFILE HEADER -->
-
 <div align="center">
 
-# 👋 Hi, I'm Mariame SANGARE
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090E2B,50:312E81,100:7C3AED&height=200&section=header&text=Mariame%20SANGARE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Web%20%26%20Data&descAlignY=62&descSize=18" width="100%" />
 
-### Software Developer | Web Development & Data
+### Turning ideas into digital solutions ✨
 
-*Building digital solutions, exploring technologies and turning ideas into reality.*
-
-<a href="https://linkedin.com/in/mariame-sangare-969a271a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mariamesangare@esp.sn">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariame-sangare-969a271a5/)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamesangare@esp.sn)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariame-tech)
 
 </div>
 
 ---
 
-## ✨ About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I'm a software developer with a background in Software Engineering, passionate about building useful applications and exploring different areas of technology.
+## 👩🏽‍💻 About Me
 
-My interests include:
+Hello! I'm Mariame, a software developer interested in creating practical digital solutions.
 
-- 💻 Web and Full Stack Development
-- 📊 Data Analysis and Business Intelligence
-- 🔌 API Development and Integration
-- 🏗️ Software Architecture and Digital Solutions
+With a background in Software Engineering, I enjoy exploring different areas of technology, from application development to data analysis.
 
-I enjoy learning by building projects, solving technical challenges and continuously expanding my skills.
+**What drives me:**
+
+- 💻 Building web applications
+- 📊 Exploring data and turning it into insights
+- 🔌 Working with APIs and backend systems
+- 🧩 Understanding problems and finding technical solutions
+- 🌱 Learning, experimenting and growing
+
+</td>
+<td width="45%" valign="top">
+
+## 🎯 My Interests
+
+| Area | Focus |
+|:---|:---|
+| 🌐 Web Development | Frontend & Backend |
+| 📈 Data | Analysis & Visualization |
+| ⚙️ Software | Architecture & APIs |
+| 🛠️ IT | Technical support & solutions |
+
+<br/>
+
+> "Great things are built one line of code at a time."
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technologies & Tools
+## ⚡ Tech Universe
 
-### 💻 Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,java,spring,php,laravel" />
-</p>
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🗄️ Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔧 Tools & Environment
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode,idea" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode,idea" />
 
-### 📊 Data & Analytics
+</td>
+</tr>
+</table>
 
-- Microsoft Excel
-- Power BI
-- SQL
-- Data cleaning and reporting
+### 📊 Data & Productivity
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [La Maison Jungle](https://github.com/mariame-tech/La-maison-jungle) | Web application developed with ReactJS | React |
-| [CRUD App](https://github.com/mariame-tech/CRUD_APP) | Application implementing CRUD operations | TypeScript |
-| [Gestion de Produits](https://github.com/mariame-tech/GestionDeProduits) | Android product management application | Kotlin, SQLite |
-
-*More projects coming soon!*
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 
 ---
 
-## 📈 GitHub Statistics
+## 🚀 Selected Projects
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariame-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<a href="https://github.com/mariame-tech/La-maison-jungle">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mariame-tech&repo=La-maison-jungle&theme=tokyonight&hide_border=true" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariame-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/mariame-tech/CRUD_APP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mariame-tech&repo=CRUD_APP&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mariame-tech/GestionDeProduits">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mariame-tech&repo=GestionDeProduits&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## 📊 GitHub Insights
 
-- Improving my Full Stack development skills
-- Exploring data analysis and visualization
-- Learning new tools and technologies
-- Contributing to meaningful software projects
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mariame-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariame-tech&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mariame-tech&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 What's Next?
+
+I'm continuously exploring new technologies and looking for opportunities to:
+
+- Strengthen my Full Stack development skills.
+- Explore data analysis and business intelligence.
+- Build complete and useful applications.
+- Discover open-source projects and collaborate with developers.
 
 ---
 
 <div align="center">
 
-### 💬 Let's connect and build something meaningful!
+### 💜 Always curious. Always learning. Always building.
 
-*Always curious. Always learning. Always building.*
+*Thanks for visiting my profile!*
 
-<img src="https://komarev.com/ghpvc/?username=mariame-tech&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=mariame-tech&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:7C3AED&height=100&section=footer" width="100%" />
 
 </div>
