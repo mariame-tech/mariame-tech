@@ -1,9 +1,7 @@
-
 <table>
 <tr>
 <td width="25%" align="center" valign="middle">
- <img width="180" alt="PXL" src="https://github.com/user-attachments/assets/1a3ab5fd-3e93-4f59-a883-8acb5c0dd55e" />
-
+  <img width="180" alt="PXL" src="https://images.weserv.nl/?url=github.com/user-attachments/assets/1a3ab5fd-3e93-4f59-a883-8acb5c0dd55e&w=360&h=360&fit=cover&a=attention&mask=circle" />
 </td>
 
 <td width="75%" valign="middle">
