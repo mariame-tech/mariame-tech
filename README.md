@@ -7,8 +7,7 @@
 <table>
 <tr>
 <td width="30%" align="center" valign="middle">
-
-<img src="./assets/profile.png" width="180" alt="Mariame SANGARE"/>
+<img width="433" height="577" alt="my_photo" src="https://github.com/user-attachments/assets/6ea98849-1052-4777-886c-c016e80e2d4d" />
 
 </td>
 
