@@ -1,10 +1,12 @@
+
 <table>
 <tr>
-<td width="20%" align="center" valign="middle">
- <img width="433" height="577" alt="PXL" src="https://github.com/user-attachments/assets/71d655d9-9a21-405f-9e80-3936fdfe858f" />
+<td width="25%" align="center" valign="middle">
+ <img width="180" alt="PXL" src="https://github.com/user-attachments/assets/1a3ab5fd-3e93-4f59-a883-8acb5c0dd55e" />
+
 </td>
 
-<td width="70%" valign="middle">
+<td width="75%" valign="middle">
 
 ## 👋 Hi, I'm Mariame SANGARE
 
@@ -21,6 +23,7 @@ Building digital solutions, exploring technologies and turning ideas into realit
 </td>
 </tr>
 </table>
+
 
 ---
 
